@@ -1,2 +1,13 @@
-+# LiveThread for Reddit
- + An Android and iOS app to turn Reddit posts into live comment streams.
+# Android
+LiveThread for Android is an application that turns standard Reddit threads into live threads. After selecting a subreddit and a particular post, all new comments will stream onto the screen.
+
+Made for Husky Hacks 3 in 36 hours.
+
+## Download
+[Play Store](https://play.google.com/store/apps/details?id=guru.nickthompson.livethread)
+
+## Technology
+Android SDK, Reddit API, Google GSON, Java
+
+# iOS
+An iOS app is planned, but does currently not exist.
